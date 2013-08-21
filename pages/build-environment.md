@@ -91,7 +91,10 @@ General variables:
 
 Build specific variables:
 
-- `CI_BRANCH` - Commit branch name (master)
-- `CI_COMMIT` - Commit SHA
-- `CI_BUILD_ID` - The id of the currently running build
+- `CI_NAME`         - CI worker name (Magnum)
+- `CI_BRANCH`       - Commit branch name (master)
+- `CI_COMMIT`       - Commit SHA
+- `CI_BUILD_ID`     - The id of the currently running build
 - `CI_BUILD_NUMBER` - Number of the currently running build
+- `CI_BUILD_PATH`   - Path to project build
+- `CI_BUILD_URL`    - Website build URL
