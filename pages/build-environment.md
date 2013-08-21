@@ -35,25 +35,26 @@ Ruby versions are managed with `rvm`. Releases:
 
 - 1.8.7
 - 1.9.2
-- 1.9.3 (*default*)
-- 2.0.0
+- 1.9.3
+- 2.0.0 (*default*)
 
 ### Node.js
 
 Node.js versions are managed with `nvm`. Releases:
 
 - 0.6
-- 0.8 (*default*)
-- 0.9
-- 0.10
+- 0.8
+- 0.10 (*default*)
 - 0.11
 
 ### Go
 
 Go language versions are managed with `gvm`. Releases:
 
-- go1 (*default*)
+- go1
 - go1.0.3
+- go1.1
+- go1.1.1 (*default*)
 
 ## Databases
 
@@ -67,11 +68,12 @@ Each test VM has the following databases preinstalled:
 - ElasticSearch 0.20.x
 - RabbitMQ 3.0.x
 - CouchDB 1.2.x
+- Beanstalk 1.9.x
 
 ## Headless Testing
 
 - Xvfb
-- Phantom.js 1.9.0
+- Phantom.js 1.9.x
 
 ## Environment Variables
 
