@@ -3,9 +3,8 @@
 Build environment includes the following Node.js versions:
 
 - 0.6
-- 0.8 - *default*
-- 0.9
-- 0.10
+- 0.8
+- 0.10 - *default*
 - 0.11
 
 Node.js versions are installed and managed with [NVM](https://github.com/creationix/nvm).
