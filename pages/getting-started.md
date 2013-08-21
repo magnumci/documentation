@@ -19,7 +19,10 @@ and can be hooked up with the following providers:
 - **Gitlab** - git
 - **Self Hosted** - git, mercurial, subversion
 
-Integration is performed via simple API that will be automatically called when the new push is received. For a custom repository (ex git) you can trigger CI build by creating a new `post-receive` hook. For samples please check the [documentation](/docs/hooks). 
+Integration is performed via simple API that will be automatically called when
+the new push is received. For a custom repository (ex git) you can trigger CI
+build by creating a new `post-receive` hook. For samples please check the
+[documentation](/docs/hooks).
 
 ## Build Flow
 
