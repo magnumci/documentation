@@ -2,10 +2,10 @@
 
 Build environment includes the following versions of Ruby:
 
-- MRI 1.8.7 
 - MRI 1.9.2
 - MRI 1.9.3
 - MRI 2.0.0 - *default*
+- MRI 2.1.0
 
 Versions are managed with [RVM](https://rvm.io/). Magnum CI will use ruby
 `2.0.0` by default, and if you want to use a different version, specify `ruby`
