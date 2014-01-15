@@ -29,18 +29,17 @@ Check **webhooks** page for details.
 
 ## Chat services
 
-Magnum CI supports all major hosted chat systems and provides a way to test
-message delivery before real build sends worker any messages. Head to addons 
-section of your project settings page to configure services. 
-
-Configuration is a pretty straight-forward, in most cases it only requires
-and third-party service API token and a room id. 
-
 Build notifications are delivered to chat rooms per each build event regardless
 of previous build status, unlike email notifications.
+
+Magnum CI supports all major hosted chat systems and provides a way to test
+message delivery before real build trigges any notification. Service configuration 
+is a pretty straight-forward, in most cases it only requires a third-party API 
+token and a room id. Head to addons section of your project settings page for 
+more details.
 
 ## Opensource
 
 All delivery mechanisms (except email and webhooks) are available as addons in project
-settings page. Most of them are also open source, check Magnum CI [github](https://github.com/magnumci) account for details
-
+settings page. Most of them are also open source, 
+check Magnum CI [github](https://github.com/magnumci) account for details
