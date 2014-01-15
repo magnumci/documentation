@@ -1,4 +1,4 @@
-# Project Hooks
+# Webhooks
 
 One way to notify a third-party service or application is to use project hooks. 
 These are simple HTTP endpoints that will receive a POST payload with build result
