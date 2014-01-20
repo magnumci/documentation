@@ -1,4 +1,4 @@
-# Continuous Deployment with Heroku
+# Heroku Deployment
 
 Magnum CI provides an ability to deploy your applications directly to Heroku cloud
 after build execution. Deployments are only trigged if the build passes and skipped 
