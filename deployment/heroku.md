@@ -23,7 +23,7 @@ screen.
 Available fields and options on the form:
 
 - **Branch** - specify a branch name on which deployments are triggered
-- **Application* - specify an application name used by Heroku
+- **Application** - specify an application name used by Heroku
 - **API token** - specify your account's API token
 - **Enabled** - enable / disable deployments at any time without deleting configuration.
 - **Forced Push** - make git push forced, overwriting everything in Heroku repository
