@@ -20,9 +20,9 @@ to install anything.
 
 SCM packages are installed with python-software-properties:
 
-- Git 1.8.2
-- Mercurial 2.5.2
-- Subversion 1.7.8
+- Git 1.8.5
+- Mercurial 2.8.2
+- Subversion 1.7.9
 
 ## Languages
 
