@@ -73,6 +73,7 @@ Each test VM has the following databases preinstalled:
 
 - Xvfb
 - Phantom.js 1.9.x
+- Firefox 25.0
 
 ## Environment Variables
 
