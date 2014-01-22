@@ -2,7 +2,6 @@
 
 Build environment includes the following Node.js versions:
 
-- 0.6
 - 0.8
 - 0.10 - *default*
 - 0.11
