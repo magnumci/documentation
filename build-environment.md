@@ -60,11 +60,11 @@ Multiple Go versions are managed with `gvm`. Releases:
 Each test VM has the following databases preinstalled:
 
 - MySQL 5.5.x
-- PostgreSQL 9.1.x
-- MongoDB 2.2.x
-- Redis 2.6.x
+- PostgreSQL 9.3.x
+- MongoDB 2.4.x
+- Redis 2.8.x
 - Memcached 1.4.x
-- ElasticSearch 0.20.x
+- ElasticSearch 0.90.x
 - RabbitMQ 3.0.x
 - CouchDB 1.2.x
 - Beanstalk 1.9.x
