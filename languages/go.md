@@ -4,15 +4,15 @@ Build environment includes the following Go versions:
 
 - Go 1.0
 - Go 1.0.3
-- Go 1.1
-- Go 1.1.1 - *default*
+- Go 1.1.2
+- Go 1.2 - *default*
 
 Go versions are installed and managed with [GVM](https://github.com/moovweb/gvm).
-Worker will use `1.1.1` version by default, and if you want to use a different 
+Worker will use `1.2` version by default, and if you want to use a different 
 version, you can define it using build settings or in `.magnum.yml` config:
 
 ```
-go: 1.1.1
+go: 1.1.2
 ```
 
 ## Dependencies
