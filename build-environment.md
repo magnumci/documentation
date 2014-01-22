@@ -31,12 +31,12 @@ type.
 
 ### Ruby
 
-Ruby versions are managed with `rvm`. Releases:
+Multiple ruby versions are managed with `rvm` and are latest patchlevels:
 
-- 1.8.7
-- 1.9.2
-- 1.9.3
-- 2.0.0 (*default*)
+- MRI 1.9.2
+- MRI 1.9.3
+- MRI 2.0.0 (*default*)
+- MRI 2.1.0
 
 ### Node.js
 
