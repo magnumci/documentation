@@ -31,7 +31,7 @@ type.
 
 ### Ruby
 
-Multiple ruby versions are managed with `rvm` and are latest patchlevels:
+Multiple Ruby versions are managed with `rvm` and are latest patchlevels:
 
 - MRI 1.9.2
 - MRI 1.9.3
@@ -40,21 +40,20 @@ Multiple ruby versions are managed with `rvm` and are latest patchlevels:
 
 ### Node.js
 
-Node.js versions are managed with `nvm`. Releases:
+Multiple Node.js versions are managed with `nvm`. Releases:
 
-- 0.6
 - 0.8
 - 0.10 (*default*)
 - 0.11
 
 ### Go
 
-Go language versions are managed with `gvm`. Releases:
+Multiple Go versions are managed with `gvm`. Releases:
 
 - go1
 - go1.0.3
-- go1.1
-- go1.1.1 (*default*)
+- go1.1.2
+- go1.2 (*default*)
 
 ## Databases
 
